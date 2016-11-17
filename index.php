@@ -342,7 +342,9 @@ by day through our  hard work for the satisfaction and the good health of the co
 
 
 <footer class="container-fluid text-center">
-  <p><img src = "http://bestanimations.com/Animals/Mammals/Horses/animated-horse-gif-14.gif"></p>
+  <p><figure><img src = "http://bestanimations.com/Animals/Mammals/Horses/animated-horse-gif-14.gif"><figcaption>
+	  Modify as you find appropriate
+	  </figcaption></figure></p>
 </footer>
 
 </body>
